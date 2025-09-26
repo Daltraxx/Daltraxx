@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Agentic AI and related material**
 
-- 👨‍💻 Learn more about be at [www.daltonpettus.com](www.daltonpettus.com)
+- 👨‍💻 Learn more about me at [www.daltonpettus.com](www.daltonpettus.com)
 
 - 💬 Ask me about **React, Next.js**
 
