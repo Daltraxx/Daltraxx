@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **LifeRPG**
 
-- 🌱 I’m currently learning **Agentic AI and related material**
+- 🌱 I’m currently learning **AI tools and frameworks such as TensorFlow and PyTorch**
 
 - 👨‍💻 Learn more about me at [www.daltonpettus.com](www.daltonpettus.com)
 
